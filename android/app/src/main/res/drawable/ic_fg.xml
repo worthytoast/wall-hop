@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 108dp adaptive foreground; the safe zone is the middle 66dp. Wall with pink spikes, a coin, and the cyan cube. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#3A2A7A" android:pathData="M26,26h7v56h-7z M75,26h7v56h-7z"/>
+    <path android:fillColor="#FF4FA3" android:pathData="M33,30 L42,35 L33,40z M33,40 L42,45 L33,50z M33,50 L42,55 L33,60z"/>
+    <path android:fillColor="#FFCF3F" android:pathData="M60,38 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    <path android:fillColor="#3FF0FF" android:pathData="M54,52 h13 a8,8 0 0 1 8,8 v13 a8,8 0 0 1 -8,8 h-13 a8,8 0 0 1 -8,-8 v-13 a8,8 0 0 1 8,-8z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M56,63 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0 M66,63 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"/>
+    <path android:fillColor="#140B2E" android:pathData="M55,63 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0 M65,63 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0"/>
+</vector>
